@@ -35,6 +35,7 @@
     <project name="external_exfatprogs" path="external/exfatprogs" remote="mod" />
     <project name="external_gptfdisk" path="external/gptfdisk" remote="mod" />
     <project name="external_mksh" path="external/mksh" remote="mod" />
+    <project name="external_misans-fonts" path="external/misans-fonts" remote="mod" />
 
     <!-- Frameworks -->
     <project name="frameworks_base" path="frameworks/base" remote="mod"/>
