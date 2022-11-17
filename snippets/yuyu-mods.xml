@@ -62,6 +62,7 @@
 
     <!-- Packages -->
     <project name="packages_apps_CarrierConfig" path="packages/apps/CarrierConfig" remote="mod" />
+    <project name="packages_apps_Dialer" path="packages/apps/Dialer" remote="mod" />
     <project name="packages_apps_Messaging" path="packages/apps/Messaging" remote="mod" />
     <project name="packages_apps_Nfc" path="packages/apps/Nfc" remote="mod" />
     <project name="packages_apps_Settings" path="packages/apps/Settings" remote="mod" />
